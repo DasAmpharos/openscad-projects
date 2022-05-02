@@ -1,0 +1,8 @@
+.DS_Store
+venv
+__pycache__
+# generated
+*.scad
+*.stl
+# libraries
+!libs/*.scad
